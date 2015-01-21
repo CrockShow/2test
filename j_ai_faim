@@ -1,0 +1,8 @@
+double operandeA = 14, operandeB=7;
+float resultat;
+resultat = operandeA * operandeB;
+printf("opA: %d",operandeA);
+printf("opB: %d", operandeB);
+printf("résultat *: %d", resultat);
+resulat = operandeA / operandeB;
+printf("résultat /: %d" ,resultat); 
